@@ -62,7 +62,8 @@ The Excel dashboard provides a clear overview of product-wise, customer-wise, an
 This project demonstrates how Microsoft Excel can be used to transform raw sales data into an interactive dashboard and actionable business insights.
 
 ## Dashboard Preview
-<img width="693" height="577" alt="DASHBOARD IMAGE" src="https://github.com/user-attachments/assets/8b887574-528a-48b8-a6a9-dfee241a8d43" />
+<img width="693" height="577" alt="DASHBOARD IMAGE" src="https://github.com/user-attachments/assets/83116127-8ccb-4dd4-b0b0-da2c051d7f82" />
+
 
 
 ## Author
