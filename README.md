@@ -14,7 +14,7 @@ The dashboard helps identify top-selling products, analyze monthly sales quantit
 - Build an interactive Excel dashboard for data-driven decision-making.
 
 ## Dataset used
-- Original dataset <a href="https://github.com/karthick894/Excel-Based-Sales-Analysis/blob/main/ListofSalesVouchers.xlsx">Dataset <br>
+- Original dataset <a href="https://github.com/karthick894/EXCEL-BASED-SALES-ANALYSIS/blob/main/ListofSalesVouchers.xlsx">Dataset <br>
 - Dataset period: April 2025 – December 2025 <br>
 - Dashboard Interaction <a href="https://github.com/karthick894/Excel-Based-Sales-Analysis/blob/main/DASHBOARD%20IMAGE.png">View Dashboard
 
