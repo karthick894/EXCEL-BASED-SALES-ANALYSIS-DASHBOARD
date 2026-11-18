@@ -1,9 +1,7 @@
 # Excel-Based Sales Analysis Dashboard | Gowri Agencies
 
 ## Project Overview
-This project analyzes sales voucher data from Gowri Agencies using Microsoft Excel. The objective is to transform raw sales data into meaningful insights through data cleaning, PivotTables, PivotCharts, and an interactive dashboard.
-
-The dashboard helps identify top-selling products, analyze monthly sales quantity, understand customer performance, and monitor overall sales volume.
+This project analyzes sales voucher data from Gowri Agencies using Microsoft Excel. The objective is to transform raw sales data into meaningful insights through data cleaning, PivotTables, PivotCharts, and an interactive dashboard.The dashboard helps identify top-selling products, analyze monthly sales quantity, understand customer performance, and monitor overall sales volume.
 
 ## Project Objectives
 - Analyze overall sales quantity.
@@ -57,9 +55,7 @@ The dashboard helps identify top-selling products, analyze monthly sales quantit
 - **OM MURUGA ELECTRICALS** was the top customer by quantity, with **2,690 units**.
 
 ## Final Conclusion
-The Excel dashboard provides a clear overview of product-wise, customer-wise, and month-wise sales quantity. The analysis helps identify high-demand products, sales trends, and important customers.
-
-This project demonstrates how Microsoft Excel can be used to transform raw sales data into an interactive dashboard and actionable business insights.
+The Excel dashboard provides a clear overview of product-wise, customer-wise, and month-wise sales quantity. The analysis helps identify high-demand products, sales trends, and important customers.This project demonstrates how Microsoft Excel can be used to transform raw sales data into an interactive dashboard and actionable business insights.
 
 ## Dashboard Preview
 <img width="693" height="577" alt="DASHBOARD IMAGE" src="https://github.com/user-attachments/assets/83116127-8ccb-4dd4-b0b0-da2c051d7f82" />
